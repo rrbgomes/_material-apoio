@@ -1,4 +1,4 @@
-# Conteúdo diversificado para pesquisa de tarefas
+# Conteúdo diversificado para pesquisa rápida
 
 ## 
 
